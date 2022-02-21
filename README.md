@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guile-gs-oliveira
 - 👀 I’m interested in developer and learning about tecnology.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on development
+- 💞️ I’m looking to collaborate on development.
 - 📫 How to reach me, send an email: guilhermeoliveira130@hotmail.com
 
 <!---
