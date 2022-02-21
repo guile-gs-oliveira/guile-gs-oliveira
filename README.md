@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @guile-gs-oliveira
-- 👀 I’m interested in  desenvolver e aprender sobre tecnolgia.
-- 🌱 I’m currently learning  java.
-- 💞️ I’m looking to collaborate on desenvolvimento
-- 📫 How to reach me  manda um email: guilhermeoliveira130@hotmail.com
+- 👀 I’m interested in developer and learning about tecnology.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on development
+- 📫 How to reach me, send an email: guilhermeoliveira130@hotmail.com
 
 <!---
 guile-gs-oliveira/guile-gs-oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
