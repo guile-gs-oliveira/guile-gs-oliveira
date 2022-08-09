@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guile-gs-oliveira
+-  Olá eu sou o Guilherme!
 - 👀 I’m interested in developer and learning about tecnology.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on development.
